@@ -45,10 +45,11 @@ This Power BI report focuses on:
 
 ## 📄 Report Preview
 
-![Dashboard Preview](./Page 1 Executive Overview.png) <!-- Replace with your actual screenshot name -->
-![Dashboard Preview](./Page 2 Attrition Deep Dive.png)
+![Dashboard Preview](./Page%201%20Executive%20Overview.png) <!-- Replace with your actual screenshot name -->
 
-🔗 **Download Full PDF:** [HR_Attrition_Insights_Portfolio.pdf](./HR Attrition Insights Portfolio - Pragati.pdf)
+![Dashboard Preview](./Page%202%20Attrition%20Deep%20Dive.png)
+
+🔗 **Download Full PDF:** [HR Attrition Insights Portfolio - Pragati.pdf](./HR%20Attrition%20Insights%20Portfolio%20-%20Pragati.pdf)
 
 ---
 
